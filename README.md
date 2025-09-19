@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tushargawhade/Practice_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tushargawhade/Practice_Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tushargawhade/Practice_Questions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Tushargawhade/Practice_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tushargawhade/Practice_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tushargawhade/Practice_Questions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Tushargawhade/Practice_Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
