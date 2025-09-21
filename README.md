@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tushargawhade/Practice_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Tushargawhade/Practice_Questions/tree/master/0485-max-consecutive-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushargawhade/Practice_Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3429-special-array-i](https://github.com/Tushargawhade/Practice_Questions/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
 | ------- |
