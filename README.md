@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushargawhade/Practice_Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/Tushargawhade/Practice_Questions/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
