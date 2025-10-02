@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Tushargawhade/Practice_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushargawhade/Practice_Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Tushargawhade/Practice_Questions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tushargawhade/Practice_Questions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/Tushargawhade/Practice_Questions/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
