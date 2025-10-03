@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tushargawhade/Practice_Questions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Tushargawhade/Practice_Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Tushargawhade/Practice_Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tushargawhade/Practice_Questions/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Tushargawhade/Practice_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
