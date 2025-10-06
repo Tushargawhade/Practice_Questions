@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tushargawhade/Practice_Questions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Tushargawhade/Practice_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tushargawhade/Practice_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Tushargawhade/Practice_Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Tushargawhade/Practice_Questions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Tushargawhade/Practice_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Tushargawhade/Practice_Questions/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tushargawhade/Practice_Questions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Tushargawhade/Practice_Questions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Tushargawhade/Practice_Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Tushargawhade/Practice_Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
