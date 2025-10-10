@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Tushargawhade/Practice_Questions/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tushargawhade/Practice_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushargawhade/Practice_Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2058-concatenation-of-array](https://github.com/Tushargawhade/Practice_Questions/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Tushargawhade/Practice_Questions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tushargawhade/Practice_Questions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/Tushargawhade/Practice_Questions/tree/master/3429-special-array-i) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Tushargawhade/Practice_Questions/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Tushargawhade/Practice_Questions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
