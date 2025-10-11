@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2556-convert-the-temperature](https://github.com/Tushargawhade/Practice_Questions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Tushargawhade/Practice_Questions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3830-find-closest-person](https://github.com/Tushargawhade/Practice_Questions/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
